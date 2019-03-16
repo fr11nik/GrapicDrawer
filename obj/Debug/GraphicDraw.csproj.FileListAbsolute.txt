@@ -1,0 +1,13 @@
+C:\Users\Fr11nik\Desktop\Отчеты\GraphicDraw\GraphicDraw\bin\Debug\GraphicDraw.exe.config
+C:\Users\Fr11nik\Desktop\Отчеты\GraphicDraw\GraphicDraw\bin\Debug\GraphicDraw.exe
+C:\Users\Fr11nik\Desktop\Отчеты\GraphicDraw\GraphicDraw\bin\Debug\GraphicDraw.pdb
+C:\Users\Fr11nik\Desktop\Отчеты\GraphicDraw\GraphicDraw\obj\Debug\GraphicDraw.csprojAssemblyReference.cache
+C:\Users\Fr11nik\Desktop\Отчеты\GraphicDraw\GraphicDraw\obj\Debug\GraphicDraw.Properties.Resources.resources
+C:\Users\Fr11nik\Desktop\Отчеты\GraphicDraw\GraphicDraw\obj\Debug\GraphicDraw.csproj.GenerateResource.cache
+C:\Users\Fr11nik\Desktop\Отчеты\GraphicDraw\GraphicDraw\obj\Debug\GraphicDraw.csproj.CoreCompileInputs.cache
+C:\Users\Fr11nik\Desktop\Отчеты\GraphicDraw\GraphicDraw\obj\Debug\GraphicDraw.exe
+C:\Users\Fr11nik\Desktop\Отчеты\GraphicDraw\GraphicDraw\obj\Debug\GraphicDraw.pdb
+C:\Users\Fr11nik\Desktop\Отчеты\GraphicDraw\GraphicDraw\obj\Debug\GraphicDraw.Form1.resources
+C:\Users\Fr11nik\Desktop\Отчеты\GraphicDraw\GraphicDraw\obj\Debug\GraphicDraw.MainForm.resources
+C:\Users\Fr11nik\Desktop\Отчеты\GraphicDraw\GraphicDraw\obj\Debug\GraphicDraw.csproj.CopyComplete
+C:\Users\Fr11nik\Desktop\Отчеты\GraphicDraw\GraphicDraw\bin\Debug\formsDragControl.dll
